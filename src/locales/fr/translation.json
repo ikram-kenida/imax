@@ -1,0 +1,245 @@
+{
+  "Home": "Accueil",
+  "home": {
+    "heroSection": {
+      "title": "UNE COMMUNAUTÉ POUR LES JOUEURS PAR LES JOUEURS",
+      "description": "Rencontrez, réseautez, faites de nouveaux amis et jouez ensemble",
+      "btn-1": "Rejoignez maintenant",
+      "btn-2": "Comment ça marche",
+      "scroll-down": "Faites défiler vers le bas"
+    },
+    "section-2": {
+      "title": "CATÉGORIES EN VEDETTE",
+      "description": "Explorez nos catégories sélectionnées."
+    },
+    "section-3": {
+      "title": "NOUVEL ARRIVAGE",
+      "description": "Consultez les derniers produits de notre collection"
+    },
+    "section-4": {
+      "title": "PRODUITS EN VEDETTE",
+      "description": "Nous les avons sélectionnés pour vous"
+    },
+    "section-5": {
+      "title": "MEILLEURES VENTES",
+      "description": "Découvrez les produits que nos clients aiment le plus."
+    },
+    "section-6": {
+      "title": "Avis",
+      "description": "Vos évaluations sont importantes pour nous, alors n'hésitez pas à partager votre opinion avec nous."
+    },
+    "section-7": {
+      "title": "Assistance et retours",
+      "card-1": {
+        "title": "SUPPORT EN LIGNE",
+        "description": "Contactez-nous par Whatsapp et téléphone"
+      },
+      "card-2": {
+        "title": "RETOURS",
+        "description": "Échange et retour gratuits dans les 3 jours, il suffit de nous contacter."
+      },
+      "card-3": {
+        "title": "REMBOURSEMENT",
+        "description": "Remboursement facile sous 7 jours ouvrés sur votre compte bancaire"
+      }
+    },
+    "banner": {
+      "title": "PLAYSTATION",
+      "description": "Montrez votre carte Playstation",
+      "btn": "Achetez maintenant"
+    }
+  },
+  "header": {
+    "sidebar": [
+      {
+        "name": "Accueil",
+        "path": "/"
+      },
+      {
+        "name": "Boutique",
+        "path": "/shop"
+      },
+      {
+        "name": "Favoris",
+        "path": "/profile#wishlist"
+      },
+      {
+        "name": "Profil",
+        "path": "/profile#info"
+      },
+      {
+        "name": "Panier",
+        "path": "/cart"
+      }
+    ],
+    "navbar": [
+      {
+        "name": "Accueil",
+        "path": "/"
+      },
+      {
+        "name": "Boutique",
+        "path": "/shop"
+      }
+    ],
+    "login": "Connexion"
+  },
+  "footer": {
+    "description": "Leaders dans l'industrie des jeux électroniques, nous offrons un magasin arabe vaste, avec une gamme de produits pour amateurs et professionnels. Bénéficiez d'une expérience d'achat unique avec des commandes traitées immédiatement, offrant les meilleurs tarifs et une qualité exceptionnelle.",
+    "title-1": "À propos de la plateforme",
+    "title-2": "Photos et vidéos",
+    "links": [
+      {
+        "name": "Accueil",
+        "path": "/"
+      },
+      {
+        "name": "Boutique",
+        "path": "/shop"
+      },
+      {
+        "name": "Connexion",
+        "path": "/auth/login"
+      },
+      {
+        "name": "Créer un compte",
+        "path": "/auth/signup"
+      },
+      {
+        "name": "Conditions de service",
+        "path": "/terms-of-services"
+      }
+    ]
+  },
+  "profile": {
+    "hello": "Bonjour",
+    "welcome": "Bienvenue dans votre compte",
+    "info": "Mes informations",
+    "details": "Coordonnées",
+    "orders": "Mes commandes",
+    "wishlist": "Liste de souhaits",
+    "change": "Changer le mot de passe",
+    "name": "Votre nom",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "signout": "Déconnexion",
+    "Order on": "Commandé le",
+    "Order Date": "Date de la commande",
+    "Order Status": "Statut de la commande",
+    "Payment Method": "Méthode de paiement",
+    "Total Amount": "Montant total",
+    "balance": "équilibre",
+    "add balance": "Ajouter du solde",
+    "balance description": "Vous pouvez ajouter du solde à votre compte en entrant le code fourni par l'administrateur. Une fois le code confirmé, le montant prévu sera ajouté à votre solde.",
+    "order-empty": {
+      "title": "Votre commande est vide.",
+      "description": "Vous n'avez aucun produit dans vos commandes pour le moment. Vous trouverez beaucoup de produits intéressants sur notre page Boutique.",
+      "Continue Shopping": "Continuer vos achats"
+    },
+    "wishlist-empty": {
+      "title": "Votre liste de souhaits est vide.",
+      "description": "Vous n'avez aucun produit dans votre liste de souhaits pour le moment. Vous trouverez beaucoup de produits intéressants sur notre page Boutique.",
+      "Continue Shopping": "Continuer vos achats"
+    },
+    "old password": "Entrez l'ancien mot de passe",
+    "new password": "Entrez le nouveau mot de passe",
+    "new password confirmation": "Confirmez le nouveau mot de passe"
+  },
+  "add to cart": "Ajouter au panier",
+  "cart": {
+    "Continue Shopping": "Continuer vos achats",
+    "Cart Details": "Détails du panier",
+    "Image": "Image",
+    "Product Details": "Détails du produit",
+    "Price": "Prix",
+    "Action": "Action",
+    "Checkout": "Paiement",
+    "Order Summary": "Résumé de la commande",
+    "Subtotal": "Sous-total",
+    "Your cart is empty and sad": "Votre panier est vide et triste",
+    "Add something to make it happy!": "Ajoutez quelque chose pour le rendre heureux!"
+  },
+  "shop": {
+    "Filter": "Filtre",
+    "Product Type": "Type de produit",
+    "Price": "Prix",
+    "Manual": "Manuel",
+    "Automatic": "Automatique",
+    "Categories": "Catégories",
+    "Clear": "Réinitialiser",
+    "Products Not Found": "Aucun produit trouvé",
+    "We apologize, but there are currently no products available.": "Désolé, mais actuellement aucun produit n'est disponible.",
+    "Shop": "Boutique",
+    "All Products": "Tous les produits"
+  },
+  "checkout": {
+    "Payment Method": "Méthode de paiement",
+    "Check Out": "Check Out",
+    "All transactions are secure and encrypted.": "Toutes les transactions sont sécurisées et chiffrées.",
+    "Credit Card": "Carte de crédit",
+    "We accept all major credit cards.": "Nous acceptons toutes les cartes de crédit majeures.",
+    "Paypal": "Paypal",
+    "Purchase using IMX Currency": "Achat en IMX",
+    "I knowledge that I have read and understood the": "Je sais que j'ai lu et compris",
+    "Terms of Service": "Conditions d'utilisation",
+    "and agree to abide by them": "et accepter les conditions d'utilisation",
+    "Loading...": "Chargement...",
+    "Pay Now": "Payer maintenant",
+    "Order Summary": "Résumé de la commande",
+    "Subtotal": "Sous-total",
+    "items": "items",
+    "Your cart is empty and sad": "Votre panier est vide et triste",
+    "Add something to make it happy!": "Ajoutez quelque chose pour le rendre heureux!",
+    "Continue Shopping": "Continuer vos achats"
+  },
+  "productDetails": {
+    "comments": "commentaires",
+    "addToWishlist": "Ajouter à la liste de souhaits",
+    "loading...": "Chargement...",
+    "addToCart": "Ajouter au panier",
+    "otherProducts": "Autres produits",
+    "exploreProducts": "Explorez les produits que nos clients préfèrent le plus.",
+    "productDescription": "Description du produit",
+    "reviews": "Avis",
+    "description": "Description",
+    "review": "Avis"
+  },
+  "error404": {
+    "sorry": "Désolé",
+    "pageNotFound": "La page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à la page d'accueil"
+  },
+  "auth": {
+    "resetPassword": "Réinitialiser votre mot de passe",
+    "enterEmail": "Entrez l'adresse e-mail associée à votre compte et nous vous tiendrons informés des instructions pour réinitialiser votre mot de passe.",
+    "loading": "Chargement...",
+    "confirm": "Confirmer",
+    "orSignIn": "Ou connectez-vous avec",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "signUp": "Inscription",
+    "welcomeBack": "Bienvenue de retour! Veuillez entrer vos informations",
+    "rememberMe": "Garder mon mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "email": "Entrez l'adresse e-mail",
+    "password": "Entrez le mot de passe",
+    "thankYou": "Merci, vérifiez votre e-mail pour les instructions de réinitialisation de votre mot de passe",
+    "enterCode": "Entrez le code",
+    "enterPassword": "Entrez le mot de passe",
+    "enterPasswordConfirmation": "Confirmez le mot de passe",
+    "passwordMustHaveAtLeast": "Votre mot de passe doit contenir au moins 8 caractères",
+    "dontReceiveEmail": "Ne vous envois pas d'e-mail?",
+    "resend": "Renvoyer",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmez le mot de passe",
+    "fullName": "Nom complet",
+    "termsConditions": "Conditions d'utilisation",
+    "agreeTermsConditions": "En créant un compte, vous acceptez les",
+    "logIn": "Connexion",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "orSignUpWith": "Ou inscris-toi avec",
+    "verifyEmail": "Vérifier votre e-mail",
+    "thankYouCheckEmail": "Merci, vérifiez votre e-mail pour les instructions de vérification de votre e-mail",
+    "signIn": "Connexion",
+    "Confirm": "Confirmer"
+  }
+}

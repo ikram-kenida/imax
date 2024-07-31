@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :focus {
+    outline: none;
+  }
+  #g_a11y_announcement {
+    display: none !important;
+  }
+}

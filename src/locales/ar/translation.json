@@ -1,0 +1,245 @@
+{
+  "Home": "الرئيسية",
+  "home": {
+    "heroSection": {
+      "title": "مجتمعٌ للاعبين من قبل لاعبين",
+      "description": "تواصل، تفاعل، كوّن صداقات جديدة العب برفقة الآخرين",
+      "btn-1": "إنضم الآن",
+      "btn-2": "كيف يعمل",
+      "scroll-down": "اسحب للأسفل"
+    },
+    "section-2": {
+      "title": "أقسام مميزة",
+      "description": "استكشف أقسامنا المختارة."
+    },
+    "section-3": {
+      "title": "منتجات جديدة",
+      "description": "تحقق من أحدث المنتجات في مجموعتنا"
+    },
+    "section-4": {
+      "title": "منتجات مميزة",
+      "description": "لقد قمنا بتحديد هذه المنتجات لك"
+    },
+    "section-5": {
+      "title": "الأكثر مبيعا",
+      "description": "استكشف المنتجات التي يحبها عملاؤنا أكثر من غيرها."
+    },
+    "section-6": {
+      "title": "اراء العملاء",
+      "description": "آراؤك مهمة بالنسبة لنا، لذا لا تتردد في مشاركة رأيك معنا."
+    },
+    "section-7": {
+      "title": "الدعم والاسترجاع",
+      "card-1": {
+        "title": "الدعم الفني عبر الإنترنت",
+        "description": "اتصل بنا عبر واتساب والهاتف"
+      },
+      "card-2": {
+        "title": "الاسترجاع",
+        "description": "استبدال وإرجاع مجاني خلال 3 أيام فقط اتصل بنا."
+      },
+      "card-3": {
+        "title": "استرداد الأموال",
+        "description": "استرداد سهل خلال 7 أيام عمل إلى حسابك المصرفي"
+      }
+    },
+    "banner": {
+      "title": "بلاي ستيشن",
+      "description": "اعرض بطاقة بلاي ستيشن الخاصة بك",
+      "btn": "تسوق الآن"
+    }
+  },
+  "header": {
+    "sidebar": [
+      {
+        "name": "الرئيسية",
+        "path": "/"
+      },
+      {
+        "name": "المتجر",
+        "path": "/shop"
+      },
+      {
+        "name": "المفضلة",
+        "path": "/profile#wishlist"
+      },
+      {
+        "name": "الملف الشخصي",
+        "path": "/profile#info"
+      },
+      {
+        "name": "السلة",
+        "path": "/cart"
+      }
+    ],
+    "navbar": [
+      {
+        "name": "الرئيسية",
+        "path": "/"
+      },
+      {
+        "name": "المتجر",
+        "path": "/shop"
+      }
+    ],
+    "login": "تسجيل الدخول"
+  },
+  "footer": {
+    "description": "نحن روّاد في عالم الألعاب الإلكترونية ورياضة الكترونية، نقدم لكم أكبر متجر عربي يضم مجموعة متنوعة من المنتجات المميزة التي تلبي احتياجات عشاق الألعاب والمحترفين على حد سواء. متجرنا مصمم ليوفر لكم تجربة تسوق استثنائية، حيث يتم تنفيذ طلباتكم بشكل تلقائي وفوري دون عناء، بأفضل الأسعار وأعلى جودة. يفخر متجرنا بأكثر من 500 تقييم إيجابي يشهد لجودة خدماتنا والتزامنا برضا عملائنا. اكتشف معنا عالم الألعاب بأبعاده المثيرة وانطلق في مغامرة لا مثيل لها مع متجرنا.",
+    "title-1": "حول المنصة",
+    "title-2": "الصور ومقاطع الفيديو",
+    "links": [
+      {
+        "name": "الرئيسية",
+        "path": "/"
+      },
+      {
+        "name": "المتجر",
+        "path": "/shop"
+      },
+      {
+        "name": "تسجيل الدخول",
+        "path": "/auth/login"
+      },
+      {
+        "name": "انشاء حساب",
+        "path": "/auth/signup"
+      },
+      {
+        "name": "أحكام الخدمة",
+        "path": "/terms-of-services"
+      }
+    ]
+  },
+  "profile": {
+    "hello": "مرحبًا",
+    "welcome": "مرحبًا بك في حسابك",
+    "info": "معلوماتي",
+    "details": "تفاصيل الاتصال",
+    "orders": "طلباتي",
+    "wishlist": "قائمة الرغبات",
+    "change": "تغيير كلمة المرور",
+    "name": "اسمك",
+    "email": "عنوان البريد الإلكتروني",
+    "password": "كلمة السر",
+    "signout": "تسجيل الخروج",
+    "Order on": "رقم الطلب",
+    "Order Date": "تاريخ الطلب",
+    "Order Status": "حالة الطلب",
+    "Payment Method": "طريقة الدفع",
+    "Total Amount": "المبلغ الإجمالي",
+    "balance": "الرصيد",
+    "add balance": "إضافة رصيد",
+    "balance description": "يمكنك إضافة رصيد إلى حسابك بوضع رمز منظفًا بوسطة المسؤل. بعد تأكيد الرمز، سيتم إضافة المبلغ المسبق للحساب.",
+    "order-empty": {
+      "title": "طلبك فارغ.",
+      "description": "ليس لديك أي منتجات في الطلبات بعد. ستجد الكثير من المنتجات المثيرة على صفحتنا للتسوق.",
+      "Continue Shopping": "متابعة التسوق"
+    },
+    "wishlist-empty": {
+      "title": "قائمة الرغبات فارغة.",
+      "description": "ليس لديك أي منتجات في قائمة الرغبات بعد. ستجد الكثير من المنتجات المثيرة على صفحتنا للتسوق.",
+      "Continue Shopping": "متابعة التسوق"
+    },
+    "old password": "أدخل كلمة المرور القديمة",
+    "new password": "أدخل كلمة مرور جديدة",
+    "new password confirmation": "تأكيد كلمة المرور الجديدة"
+  },
+  "add to cart": "أضف إلى السلة",
+  "cart": {
+    "Continue Shopping": "متابعة التسوق",
+    "Cart Details": "تفاصيل السلة",
+    "Image": "صورة",
+    "Product Details": "تفاصيل المنتج",
+    "Price": "السعر",
+    "Action": "الإجراءات",
+    "Checkout": "الدفع",
+    "Order Summary": "ملخص الطلب",
+    "Subtotal": "المبلغ المسبق",
+    "Your cart is empty and sad": "السلة  فارغة",
+    "Add something to make it happy!": "أضف شيء في السلة حتي لا تكون فارغة"
+  },
+  "shop": {
+    "Filter": "فلتر",
+    "Product Type": "نوع المنتج",
+    "Price": "السعر",
+    "Manual": "يدوي",
+    "Automatic": "تلقائي",
+    "Categories": "الأقسام",
+    "Clear": "مسح",
+    "Products Not Found": "لا يوجد منتجات",
+    "We apologize, but there are currently no products available.": "عذرًا على أن لا توجد منتجات متاحة حاليًا.",
+    "Shop": "المتجر",
+    "All Products": "جميع المنتجات"
+  },
+  "checkout": {
+    "Payment Method": "طريقة الدفع",
+    "Check Out": "الدفع",
+    "All transactions are secure and encrypted.": "كل أوامر الدفع مؤقتًا ومشفرة.",
+    "Credit Card": "بطاقة الائتمان",
+    "We accept all major credit cards.": "نحن نقبل كل أنواع البطاقات الرئيسية.",
+    "Paypal": "بايبال",
+    "Purchase using IMX Currency": "شراء بالعملة الموقع",
+    "I knowledge that I have read and understood the": "أتفكك بأن أفهم بأن أفهم ب",
+    "Terms of Service": "أحكام الخدمة",
+    "and agree to abide by them": "وأتصلك بها",
+    "Loading...": "جاري التحميل...",
+    "Pay Now": "دفع الان",
+    "Order Summary": "ملخص الطلب",
+    "Subtotal": "المبلغ المسبق",
+    "items": "منتج",
+    "Continue Shopping": "متابعة التسوق",
+    "Your cart is empty and sad": "السلة  فارغة",
+    "Add something to make it happy!": "أضف شيء في السلة حتي لا تكون فارغة"
+  },
+  "productDetails": {
+    "comments": "تعليقات",
+    "addToWishlist": "أضف إلى قائمة الرغبات",
+    "loading...": "جاري التحميل...",
+    "addToCart": "أضف إلى السلة",
+    "otherProducts": "منتجات أخرى",
+    "exploreProducts": "اختيار منتجات مثيرة بشكل أساسي.",
+    "productDescription": "تفاصيل المنتج",
+    "reviews": "التعليقات",
+    "description": "الوصف",
+    "review": "التعليق"
+  },
+  "error404": {
+    "sorry": "أعتذر",
+    "pageNotFound": "لا يوجد صفحة مطابقة للبحث",
+    "backToHome": "الرجوع إلى الصفحة الرئيسية"
+  },
+  "auth": {
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "enterEmail": "أدخل عنوان البريد الإلكتروني المرتبط بحسابًا وسنحذف الرمز من حسابك.",
+    "loading": "جاري التحميل...",
+    "confirm": "تأكيد",
+    "orSignIn": "أو تسجيل الدخول ب",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "signUp": "إنشاء حساب",
+    "welcomeBack": "مرحبًا بك مرة أخرى! يرجى أدخل التفاصيل",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "email": "أدخل عنوان البريد الإلكتروني",
+    "password": "أدخل كلمة المرور",
+    "thankYou": "شكرًا لك للتحقق من أنك تريد إعادة تعيين كلمة المرور",
+    "enterCode": "أدخل الرمز",
+    "enterPassword": "أدخل كلمة المرور",
+    "enterPasswordConfirmation": "أدخل تأكيد كلمة المرور",
+    "passwordMustHaveAtLeast": "يجب علي أن تكون كلمة المرور أكثر من 8 أحرف",
+    "dontReceiveEmail": "لا تستقبل بريد؟",
+    "resend": "إعادة إرسال",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "termsConditions": "أحكام الخدمة",
+    "agreeTermsConditions": "بإنظام إنشاء حساب تعاونًا ب",
+    "logIn": "تسجيل الدخول",
+    "alreadyHaveAccount": "ليس لديك حساب؟",
+    "orSignUpWith": "أو تسجيل الحساب ب",
+    "verifyEmail": "تأكيد عنوان البريد الإلكتروني",
+    "thankYouCheckEmail": "شكرًا لك للتحقق من أنك تريد تأكيد عنوان البريد الإلكتروني",
+    "signIn": "تسجيل الدخول",
+    "Confirm": "تأكيد"
+  }
+}

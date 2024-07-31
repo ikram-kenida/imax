@@ -1,0 +1,245 @@
+{
+  "Home": "Home",
+  "home": {
+    "heroSection": {
+      "title": "A COMMUNITY FOR GAMERS BY GAMERS",
+      "description": "Meet, network, make new friends and play together",
+      "btn-1": "Join now",
+      "btn-2": "How it Works",
+      "scroll-down": "Scroll down"
+    },
+    "section-2": {
+      "title": "FEATURED CATEGORIES",
+      "description": "Explore our selected categories."
+    },
+    "section-3": {
+      "title": "NEW ARRIVAL",
+      "description": "Check the latest products in our collection"
+    },
+    "section-4": {
+      "title": "FEATURED PRODUCTS",
+      "description": "We selected these for you"
+    },
+    "section-5": {
+      "title": "BEST SELLERS",
+      "description": "Explore products that our customers loves most."
+    },
+    "section-6": {
+      "title": "Feedback",
+      "description": "Your ratings are important to us, so feel free to share your opinion with us."
+    },
+    "section-7": {
+      "title": "Support & Returns",
+      "card-1": {
+        "title": "ONLINE SUPPORT",
+        "description": "Contact us by Whatsapp & Phone"
+      },
+      "card-2": {
+        "title": "RETURNS",
+        "description": "Free exchange and return within 3 days just contact."
+      },
+      "card-3": {
+        "title": "REFUND",
+        "description": "Easy refund with 7 working days to your bank account"
+      }
+    },
+    "banner": {
+      "title": "PLAYSTATION",
+      "description": "Show Off Your Playstation Card",
+      "btn": "Shop Now"
+    }
+  },
+  "header": {
+    "sidebar": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Shop",
+        "path": "/shop"
+      },
+      {
+        "name": "Favourite",
+        "path": "/profile#wishlist"
+      },
+      {
+        "name": "Profile",
+        "path": "/profile#info"
+      },
+      {
+        "name": "Cart",
+        "path": "/cart"
+      }
+    ],
+    "navbar": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Shop",
+        "path": "/shop"
+      }
+    ],
+    "login": "Login"
+  },
+  "footer": {
+    "description": "As pioneers in electronic games and e-sports, we present the largest Arab store offering a variety of unique products. Experience effortless, instant, and high-quality shopping with over 500 positive reviews.",
+    "title-1": "About Platform",
+    "title-2": "Photos and videos",
+    "links": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Shop",
+        "path": "/shop"
+      },
+      {
+        "name": "Login",
+        "path": "/auth/login"
+      },
+      {
+        "name": "Create Account",
+        "path": "/auth/signup"
+      },
+      {
+        "name": "Terms of Services",
+        "path": "/terms-of-services"
+      }
+    ]
+  },
+  "profile": {
+    "hello": "Hello",
+    "welcome": "Welcome to your Account",
+    "info": "My Info",
+    "details": "Contact Details",
+    "orders": "My Orders",
+    "wishlist": "Wishlist",
+    "change": "Change Password",
+    "name": "Your Name",
+    "email": "Email address",
+    "password": "Password",
+    "signout": "Sign out",
+    "Order on": "Order on",
+    "Order Date": "Order Date",
+    "Order Status": "Order Status",
+    "Payment Method": "Payment Method",
+    "Total Amount": "Total Amount",
+    "balance": "Balance",
+    "add balance": "Add Balance",
+    "balance description": "You can add balance to your account by entering the code provided by the admin. Once the code is verified, the predetermined amount will be added to your balance.",
+    "order-empty": {
+      "title": "Your order is empty.",
+      "description": "You don’t have any products in the orders yet. You will find a lot <br> of interesting products on our Shop page.",
+      "Continue Shopping": "Continue Shopping"
+    },
+    "wishlist-empty": {
+      "title": "Your wishlist is empty.",
+      "description": "You don’t have any products in the orders yet. You will find a lot <br> of interesting products on our Shop page.",
+      "Continue Shopping": "Continue Shopping"
+    },
+    "old password": "Enter old password",
+    "new password": "Enter new password",
+    "new password confirmation": "Enter new password confirmation"
+  },
+  "add to cart": "Add to cart",
+  "cart": {
+    "Continue Shopping": "Continue Shopping",
+    "Cart Details": "Cart Details",
+    "Image": "Image",
+    "Product Details": "Product Details",
+    "Price": "Price",
+    "Action": "Action",
+    "Checkout": "Checkout",
+    "Order Summary": "Order Summary",
+    "Subtotal": "Subtotal",
+    "Your cart is empty and sad": "Your cart is empty and sad",
+    "Add something to make it happy!": "Add something to make it happy!"
+  },
+  "shop": {
+    "Filter": "Filter",
+    "Product Type": "Product Type",
+    "Price": "Price",
+    "Manual": "Manual",
+    "Automatic": "Automatic",
+    "Categories": "Categories",
+    "Clear": "Clear",
+    "Products Not Found": "Products Not Found",
+    "We apologize, but there are currently no products available.": "We apologize, but there are currently no products available.",
+    "All Products": "All Products",
+    "Shop": "Shop"
+  },
+  "checkout": {
+    "Payment Method": "Payment Method",
+    "Check Out": "Check Out",
+    "All transactions are secure and encrypted.": "All transactions are secure and encrypted.",
+    "Credit Card": "Credit Card",
+    "We accept all major credit cards.": "We accept all major credit cards.",
+    "Paypal": "Paypal",
+    "Purchase using IMX Currency": "Purchase using IMX Currency",
+    "I knowledge that I have read and understood the": "I knowledge that I have read and understood the",
+    "Terms of Service": "Terms of Service",
+    "and agree to abide by them": "and agree to abide by them",
+    "Loading...": "Loading...",
+    "Pay Now": "Pay Now",
+    "Order Summary": "Order Summary",
+    "Subtotal": "Subtotal",
+    "items": "items",
+    "Your cart is empty and sad": "Your cart is empty and sad",
+    "Add something to make it happy!": "Add something to make it happy!",
+    "Continue Shopping": "Continue Shopping"
+  },
+  "productDetails": {
+    "comments": "comments",
+    "addToWishlist": "Add to Wishlist",
+    "loading...": "Loading...",
+    "addToCart": "Add to cart",
+    "otherProducts": "Other products",
+    "exploreProducts": "Explore products that our customers loves most.",
+    "productDescription": "Product Description",
+    "reviews": "Reviews",
+    "description": "Description",
+    "review": "Review"
+  },
+  "error404": {
+    "sorry": "Sorry",
+    "pageNotFound": "The page you are looking for was never existed",
+    "backToHome": "Back To Home"
+  },
+  "auth": {
+    "resetPassword": "Reset your password",
+    "enterEmail": "Enter the email address associated with your account and we will send you a link to reset your password.",
+    "loading": "Loading...",
+    "confirm": "Confirm",
+    "orSignIn": "Or sign in with",
+    "dontHaveAccount": "Don’t have an account?",
+    "signUp": "Sign Up",
+    "welcomeBack": "Welcome back! please enter your detail",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "email": "Enter Email",
+    "password": "Enter Password",
+    "thankYou": "Thank you, check your email for instructions to reset your password",
+    "enterCode": "Enter Code",
+    "enterPassword": "Enter Password",
+    "enterPasswordConfirmation": "Enter Password Confirmation",
+    "passwordMustHaveAtLeast": "Your password must have at least 8 characters",
+    "dontReceiveEmail": "Don’t receive an email?",
+    "resend": "Resend",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "termsConditions": "Terms & Conditions",
+    "agreeTermsConditions": "By creating an account means you agree to the",
+    "logIn": "Log In",
+    "alreadyHaveAccount": "Already have an account?",
+    "orSignUpWith": "Or sign up with",
+    "verifyEmail": "Verify your Email",
+    "thankYouCheckEmail": "Thank you, check your email for instructions to verify email",
+    "signIn": "Sign In",
+    "Confirm": "Confirm"
+  }
+}

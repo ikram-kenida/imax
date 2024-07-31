@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Cairo";
+  src: url("../fonts/Cairo-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Cairo";
+  src: url("../fonts/Cairo-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Cairo";
+  src: url("../fonts/Cairo-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/Lato-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Righteous";
+  src: url("../fonts/Righteous-Regular.ttf");
+  font-weight: 400;
+}
