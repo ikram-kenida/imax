@@ -12,7 +12,7 @@ import { SupportReturns } from "@/components/Home/SupportReturns";
 const Home = () => {
   return (
     <>
-      <HeroSection />
+      
       <FeaturedCategories />
       <NewProducts />
       <FeaturedProducts />
